@@ -1,6 +1,6 @@
-# Startercode Gestaltungsportfolio 2021/22
+# Startercode Gestaltungsportfolio 2022/23
 
-Startercode für das Gestaltungsportfolio im Kurs Generative Gestaltung im Wintersemester 2021/22.
+Startercode für das Gestaltungsportfolio im Kurs Generative Gestaltung im Wintersemester 2022/23.
 
 Begründen Sie die Gestaltung und die gestalterischen Entscheidungen die dem Sketch zugrunde liegen. Was ist die Grundidee, warum wurde sie so umgesetzt, wie sie umgesetzt wurde? Was macht den Sketch interessant? Inwiefern zahlt die Arbeit auf das Thema ein? Falls Sie DrawingParams nutzen, erläutern Sie bitte, warum Sie die jeweiligen Parameter brauchen, warum die Wertebereiche so gewählt wurden und warum Sie die einzelnen Parameter so initialisiert haben, wie Sie es schlussendlich gemacht haben. 
 
